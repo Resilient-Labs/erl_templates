@@ -1,0 +1,178 @@
+#iphone {
+	float: right;
+	width: 400px;
+	margin-top: -230px;
+}
+
+#sub {
+	margin-left: 0;
+}
+
+.first-main-container {
+	border: none;
+}
+
+#asSeenOn {
+	float: left;
+	width: 100%;
+	background-color: gray;
+	border-top:1px solid black;
+
+}
+
+#asSeenOn .inner-container {
+	margin: 0 auto;
+}
+
+#asSeenOn .inner-container p {
+	float: left;
+	margin-top: 25px;
+	display: inline;
+}	
+
+
+.main-container .inner-container p {
+	display: inline-flex;
+	margin-left: 40px;
+	width: 50%;
+}
+.main-container .inner-container #what-people-say {
+	text-align: center;
+}
+.main-container .inner-container #what-people-say p {
+	width: 100%;
+	margin-left: 0;
+	text-align: center;
+}
+
+.main-container .inner-container #what-people-say div {
+	display: inline-block;
+    width: 27%;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+/*
+
+.main-container .inner-container .container {
+	margin: 10px;
+    float: left;
+    width: 31.3%;
+}
+
+.main-container .inner-container .container p {
+	width: 100%;
+	margin-left: 0;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+.fa-user:before {
+    content: "\f007";
+    font-size: 50pt;
+}
+
+.icon {
+	text-align: center;
+	width: 100%;
+	margin-top: 20px;
+
+}
+
+.center-item {
+	text-align: center;
+	width: 100%;
+	font-size: 25pt;
+}
+
+.paragraph-size {
+	width: 100%;
+	font-size: 13pt;
+	text-align: center;
+}
+
+#align-center {
+	text-align: center;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+
+.button-width {
+	width: 100px
+}
+
+.center {
+	margin: 0 auto;
+}
+
+#site-footer p {
+	text-align: center;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	color: white;
+}
+
+@media (max-width: 980px) { 
+
+	.inner-container {
+
+	}
+
+	h2 {
+		margin-left: 0;
+	}
+
+
+	.main-container .inner-container .image-container {
+		width: 60%;
+		min-width: 300px;
+		max-width: 400px;
+		float: none;
+		margin: 0 auto;
+	}
+
+	.main-container .inner-container .image-container-right {
+		width: 60%;
+		min-width: 300px;
+		max-width: 400px;
+		margin: 0 auto;
+		float: none;
+	}
+
+	.main-container .inner-container p {
+		width: 100%;
+		margin-left: 0;
+	}
+
+	#text-left-paragraph {
+		width: 100%;
+	}
+
+	#text-left {
+		width: 100%;
+	}
+
+
+	.main-container .inner-container #what-people-say div {
+		width: 100%;
+		margin-top: 10px;
+	}
+}
