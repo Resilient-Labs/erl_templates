@@ -140,6 +140,11 @@
 		margin-left: 0;
 	}
 
+	li {
+		margin: 2%;
+
+	}
+
 
 	.main-container .inner-container .image-container {
 		width: 60%;
