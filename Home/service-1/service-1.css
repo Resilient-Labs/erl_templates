@@ -1,0 +1,99 @@
+
+.pricing-plan {
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: 15pt;
+}
+
+.price {
+	margin: 0;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 30pt;
+}
+
+.feature-text {
+	margin: 0;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 13pt;
+	margin-top: 20px;
+}
+
+.signup-button {
+	margin: 170px auto 0 auto;
+}
+
+
+
+.left-middle-right {
+	margin: 0 auto;
+}
+
+#left {
+    float: left;
+    width: 30%;
+    height: 500px;
+    border: 2px solid black;
+    border-right: none;
+}
+
+#middle {
+	float: left;
+    width: 38%;
+    height: 550px;
+    border: 2px solid green;
+    margin-top: -25px;
+}
+
+#right {
+    float: left;
+    width: 30%;
+    height: 500px;
+    border: 2px solid black;
+    border-left: none;
+}
+
+h2 {
+	width: 100%;
+	margin: 0;
+	text-align: center;
+	display: block;
+	margin-bottom: 40px;
+}
+
+.center-item {
+	text-align: center;
+	width: 100%;
+	font-size: 25pt;
+}
+
+.paragraph-size {
+	width: 100%;
+	font-size: 13pt;
+	text-align: center;
+}
+
+#align-center {
+	text-align: center;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+
+.button-width {
+	width: 100px
+}
+
+.center {
+	margin: 0 auto;
+	margin: 10px auto 20px auto;
+}
+
+#site-footer p {
+	text-align: center;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	color: white;
+}
