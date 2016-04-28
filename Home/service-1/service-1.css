@@ -28,6 +28,10 @@
 	text-align: left;
 }
 
+.button-color {
+	background-color: orange;
+}
+
 
 .right-text {
 	font-family: sans-serif;
@@ -98,7 +102,7 @@ a {
 }
 
 .signup-button {
-	margin: 170px auto 0 auto;
+	margin: 170px auto 10px auto;
 	display: block;
 	width: 180px;
 	height: 50px;
